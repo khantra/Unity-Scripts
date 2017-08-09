@@ -1,0 +1,28 @@
+{
+    "items":
+   [
+	{"id":0,"Name":"Scope","ItemGroup":"MOD","TotalProperties":2,"Description":"Increase Your Vsibility"},
+	{"id":1,"Name":"FlashLight","ItemGroup":"MOD","TotalProperties":2,"Description":"See in dark Places"},
+	{"id":2,"Name":"Guerilla Gun Attachment","ItemGroup":"MOD","TotalProperties":1,"Description":"This is my boom stick"},
+	{"id":3,"Name":"Grappling Hook","ItemGroup":"Tool","TotalProperties":2,"Description":"This is not at all like the hookshot"},
+	{"id":4,"Name":"Paracord","ItemGroup":"Tool","TotalProperties":2,"Description":"You need to reach places and to use grappling hook"},
+	{"id":5,"Name":"Stone","ItemGroup":"Ingredient","TotalProperties":1,"Description":"Good for making stone weapons"},
+	{"id":6,"Name":"Bone","ItemGroup":"Ingredient","TotalProperties":1,"Description":"Good For Making Ritual Weapons"},
+	{"id":7,"Name":"Scrap Metal","ItemGroup":"Ingredient","TotalProperties":1,"Description":"You need this for guns and metal works"},
+	{"id":8,"Name":"Wood","ItemGroup":"Ingredient","TotalProperties":1,"Description":"Good for making things with"},
+	{"id":9,"Name":"Small air Tank","ItemGroup":"Ingredient","TotalProperties":1,"Description":"A tank full of fire power."},
+	{"id":10,"Name":"Air Pump","ItemGroup":"Ingredient","TotalProperties":1,"Description":"A must have for pneumatic weapons"},
+	{"id":11,"Name":"Rubber Hose","ItemGroup":"Ingredient","TotalProperties":1,"Description":"This is useful on so many levels. Come on it's a hose."},
+	{"id":12,"Name":" Cansister","ItemGroup":"Ingredient","TotalProperties":1,"Description":"Good for holding liquids"},
+	{"id":13,"Name":"Batteries","ItemGroup":"Ingredient","TotalProperties":1,"Description":"Good for temporary power"},
+	{"id":14,"Name":"Oil Filter","ItemGroup":"Ingredient","TotalProperties":1,"Description":"Need it for a silencer"},
+	{"id":15,"Name":"Blue Weed","ItemGroup":"Medicine","TotalProperties":2,"Description":"Slow it down"},
+	{"id":16,"Name":"Water","ItemGroup":"Health","TotalProperties":2,"Description":"Get it together."},
+	{"id":17,"Name":"The Big Sleep","ItemGroup":"Poison","TotalProperties":1,"Description":"Make them sleep the big one."},
+	{"id":18,"Name":"Poison","ItemGroup":"Poison","TotalProperties":1,"Description":"Make em hurt"},
+	{"id":19,"Name":"Ghost Of Vengence","ItemGroup":"Poison","TotalProperties":2,"Description":"Make em scared"},
+	{"id":20,"Name":"First-AID Kit","ItemGroup":"Health","TotalProperties":2,"Description":"Seriously get it together"},
+	{"id":21,"Name":"Stamina Pills","ItemGroup":"Stamina","TotalProperties":2,"Description":"Catch your breath."},
+	{"id":22,"Name":"Blood","ItemGroup":"Medicine","TotalProperties":2,"Description":"No Blood Poisoning For you"}
+]
+}
